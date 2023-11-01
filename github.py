@@ -1,0 +1,1 @@
+print("MOIZ MANSOORI JANEMAN")
